@@ -2,11 +2,11 @@
 
 > 京东签到工具
 >
-> 由于原仓库被删，才新建了这个项目。同时在原仓库上做了优化。原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
+> 原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
 
 ## 触发
 
-- 点亮当前项目 `Star` 按钮或凌晨 4 点定时执行 `github action`
+- 点亮当前项目 `Star` 按钮或早上 7 点定时执行 `github action`
 - 如果你想自定义触发方式，编辑 `.github/workflows/work.yaml`
 
 ## 如何使用
