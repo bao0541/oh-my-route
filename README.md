@@ -7,6 +7,7 @@
 ## 触发
 
 - 点亮当前项目 `Star` 按钮或早上 7 点定时执行 `github action`
+- 美区时间，加8小时为中国时间
 - 如果你想自定义触发方式，编辑 `.github/workflows/work.yaml`
 
 ## 如何使用
